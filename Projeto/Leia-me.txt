@@ -1,0 +1,7 @@
+Para executar o arquivo, ultilizar o Dev++, com o código aberto apertar F9 e F11 respectivamente.
+
+Descrição:
+
+Um sistema para cadastro de Aluno. No controle é possível cadastrar alunos para o processo seletivo, cadastrar alunos para matrícula, cadastrar de turmas e cadastro de alunos nas turmas, cadastro dos docentes, cadastro de notas. 
+É possível consultar cadastrados no processo seletivo, alunos por turma, alunos matriculados, notas por alunos, docentes ativos, bem como relatórios diversos: relatório de alunos matriculados, alunos por turmas, cadastrados no processo
+seletivo, notas por alunos individuais, notas dos alunos por turma.
